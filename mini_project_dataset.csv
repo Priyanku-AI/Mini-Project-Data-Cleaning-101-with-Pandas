@@ -1,0 +1,11 @@
+ID,Name,Age,Gender,Salary,Department
+1,Rahul,28,M,50000,IT
+2,Priya,,F,60000,HR
+3,Arjun,35,M,,Sales
+4,Asha,22,F,55000,IT
+5,Suresh,40,M,70000,HR
+6,Pallabi,26,F,48000,Sales
+7,,32,M,62000,IT
+8,Raj,29,M,55000,
+9,Anita,33,F,,Sales
+10,Vikram,28,M,58000,HR
